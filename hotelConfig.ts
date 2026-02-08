@@ -1,7 +1,7 @@
 export const hotelConfig = {
-  hotelName: "{{HOTEL_NAME}}",
-  email: "{{EMAIL}}",
-  address: "{{ADDRESS}}",
-  phoneNumber: "{{PHONE_NUMBER}}",
-  websiteUrl: "{{WEBSITE_URL}}",
+  hotelName: "Apparthotel Gartenresidence Nalserhof",
+  email: "info@nalserhof.it",
+  address: "",
+  phoneNumber: "+39 0471 678 678",
+  websiteUrl: "https://www.nalserhof.it/",
 };
